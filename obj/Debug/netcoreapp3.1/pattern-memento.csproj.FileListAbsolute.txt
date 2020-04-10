@@ -11,3 +11,5 @@ C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.Assem
 C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.dll
 C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.pdb
 C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.genruntimeconfig.cache
+C:\projects\dotnet\pattern-memento\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\projects\dotnet\pattern-memento\obj\Debug\netcoreapp3.1\pattern-memento.csproj.CopyComplete

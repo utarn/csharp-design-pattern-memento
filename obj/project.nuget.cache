@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KEgG95BGcjdLkDk0De/NQWULnXWI8Z5QhufyHaiPawzHMMreKU6IH4i5Jbv0bhGE/bsIepMLq308HgPloNDK3w==",
+  "dgSpecHash": "5k+vPXG+4SwBNPDyLc91wD6Torhrhg0dmEsxNKsgf1zGOv59fWEQc3p3rajFSaka5mw/RhdsDFXuhFEP2bJ7Ww==",
   "success": true,
   "projectFilePath": "C:\\projects\\dotnet\\pattern-memento\\pattern-memento.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zarim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
